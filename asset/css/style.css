@@ -1,3 +1,23 @@
-section .container-lg {
-    height: 100%;
+@font-face {
+    font-family: 'airBnb bold';
+    src: url('/cafeProject/asset/font/airBnb/AirbnbCerealBlack.ttf')
+}
+
+@font-face {
+    font-family: 'airBnb Reguler';
+    src: url('/cafeProject/asset/font/airBnb/AirbnbCerealBook.ttf');
+}
+
+.style-bottom {
+    max-height: 65px;
+    margin-top: -650px;
+    margin-bottom: 25px;
+}
+
+html body {
+    font-family: 'airBnb Reguler', Arial, Helvetica, sans-serif;
+}
+
+aside img .image {
+    margin-right: 100px !important;
 }
