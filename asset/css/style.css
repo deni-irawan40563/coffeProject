@@ -14,7 +14,6 @@
 
 .font-bold {
     font-family: 'airBnb bold';
-    font-size: 17px;
 }
 
 .num {
@@ -23,4 +22,27 @@
     color: white;
     border-radius: 500px;
     font-size: small;
+}
+.buttonAside1 {
+    margin: 0;
+    color: #82DE3A;
+    border: solid #82DE3A 1px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+.buttonAside {
+    margin: 0;
+    color: #82DE3A;
+    background: rgba(130, 222, 58, 0.2);
+    border: solid #82DE3A 1px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+.asideMargin {
+    margin-top: 250px;
+    margin-bottom: 0;
 }
