@@ -23,6 +23,7 @@
     border-radius: 500px;
     font-size: small;
 }
+
 .buttonAside1 {
     margin: 0;
     color: #82DE3A;
@@ -32,6 +33,7 @@
     padding-bottom: 2px;
     padding-top: 2px;
 }
+
 .buttonAside {
     margin: 0;
     color: #82DE3A;
@@ -42,6 +44,7 @@
     padding-bottom: 2px;
     padding-top: 2px;
 }
+
 .asideMargin {
     margin-top: 250px;
     margin-bottom: 0;
